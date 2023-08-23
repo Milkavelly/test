@@ -1,4 +1,4 @@
-file.log
+*.log
 logs/
 file.txt
 
